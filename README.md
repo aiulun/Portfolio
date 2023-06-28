@@ -2,7 +2,9 @@
 
 A collection of the web development projects/clients I've worked on.
 
-**Link to project:** [!Portfolio](https://alanliang.netlify.app/)
+**Link to project:** 
+
+[Portfolio](https://alanliang.netlify.app/)
 
 ## How It's Made:
 
